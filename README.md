@@ -15,3 +15,5 @@ Modifications:
 - Orbitool O2 tool head
 - Orbiter V2 extruder
 - BTT Relay V1.2
+
+![Manta8P-Wiring](https://github.com/user-attachments/assets/2ee0c1da-3535-4e95-a7c8-9d3806a8ee4c)
