@@ -15,4 +15,3 @@ Modifications:
 - Orbitool O2 tool head
 - Orbiter V2 extruder
 - BTT Relay V1.2
-- SSR Relay 24V - 48V 10A
