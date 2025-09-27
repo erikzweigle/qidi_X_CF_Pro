@@ -6,7 +6,7 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/kl
 Klipper automated backups of the Qidi X-CF Pro
 https://www.printables.com/model/1032545-klipper-qidi-x-cf-pro
 
-- Manta M8P
+- Manta M8P V2
 - Raspi CM5 + 64Gb eMMC
 - 450W PSU
 
