@@ -7,7 +7,7 @@ Klipper automated backups of the Qidi X-CF Pro
 https://www.printables.com/model/1032545-klipper-qidi-x-cf-pro
 
 - Manta M8P
-- CB1 +32 GB eMMC
+- Raspi CM5 + 64Gb 
 - 450W PSU
 
 Modifications:
@@ -15,7 +15,7 @@ Modifications:
 - Orbitool O2 tool head
 - Orbiter V2 extruder
 - BTT Relay V1.2
-- Dual motor Y-axis
+- Dual LDO 2504 motor Y-axis
 - LDO 2504 motor X-axis
 - NeXtG Hotend + Diamondback nozzle
 
